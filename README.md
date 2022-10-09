@@ -19,4 +19,5 @@
   <li>Total weight: 860 grams.</li>
   <li>Firmware: multiwii 2.4</li>
   <li>Cables, jumper, connector & soldering.</li>
+  <li>Mini led (SMD)</li>
 </ul>
